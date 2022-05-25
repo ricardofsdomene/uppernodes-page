@@ -176,7 +176,7 @@ export default function Index() {
             color="#000"
             fontSize={isWideVersion ? "3xl" : "xl"}
           >
-            Desenvolvimento para os seguintes tipos de negocios
+            Desenvolvimento para os seguintes tipos de negócios
           </Text>
           <Flex mt="4">
             <Text fontWeight="bold" color="#333">
@@ -269,6 +269,7 @@ export default function Index() {
         passHref={true}
       >
         <Flex
+          zIndex="2" 
           cursor="pointer"
           position="fixed"
           bottom={10}
