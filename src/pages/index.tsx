@@ -204,7 +204,7 @@ export default function Index() {
             </Text>
           </Flex>
           <Link
-            href="https://api.whatsapp.com/send?phone=13473700427&text=Preciso%20de%20um%20aplicativo"
+            href="https://api.whatsapp.com/send?phone=13473700427&text=Olá,%20eu%20vim%20pelo%20seu%20site"
             passHref={true}
           >
             <Flex
@@ -249,7 +249,7 @@ export default function Index() {
             ricardofsdomene@icloud.com
           </Text>
           <Link
-            href="https://api.whatsapp.com/send?phone=13473700427&text=Preciso%20de%20um%20aplicativo"
+            href="https://api.whatsapp.com/send?phone=13473700427&text=Olá,%20eu%20vim%20pelo%20seu%20site"
             passHref={true}
           >
             <Text
@@ -265,7 +265,7 @@ export default function Index() {
         </Flex>
       </Flex>
       <Link
-        href="https://api.whatsapp.com/send?phone=13473700427&text=Preciso%20de%20um%20aplicativo"
+        href="https://api.whatsapp.com/send?phone=13473700427&text=Olá,%20eu%20vim%20pelo%20seu%20site"
         passHref={true}
       >
         <Flex
