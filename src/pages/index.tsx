@@ -155,7 +155,7 @@ export default function Index() {
             <Image
               maxH={size.height / 2 - 10}
               maxW={size.width - 100}
-              src="https://f19c-177-54-149-41.sa.ngrok.io/images/iso-nodes.png"
+              src="https://o.remove.bg/downloads/4ae48949-1c8b-4f27-8e65-786372dc758d/3441E8F9-9521-4405-8D90-76186A769157-removebg-preview.png"
             />
           )}
         </Flex>
