@@ -147,7 +147,7 @@ export default function Index() {
               <Image
                 maxW={size.width / 2}
 
-                src="https://o.remove.bg/downloads/425474ef-d792-42fe-bc14-bcad97fe6fe5/4D88474B-9C91-4912-A5D6-CA0E09C4D0CF-removebg-preview.png"
+                src="https://o.remove.bg/downloads/3e449ce1-d90d-496c-8e60-f5bc4079e9f6/9A71110A-ABFE-4B96-BB09-90CB22264F89-removebg-preview.png"
               />
             )}
           </Flex>
@@ -155,7 +155,7 @@ export default function Index() {
             <Image
               maxH={size.height / 2 - 10}
               maxW={size.width - 100}
-              src="https://o.remove.bg/downloads/425474ef-d792-42fe-bc14-bcad97fe6fe5/4D88474B-9C91-4912-A5D6-CA0E09C4D0CF-removebg-preview.png"
+              src="https://o.remove.bg/downloads/3e449ce1-d90d-496c-8e60-f5bc4079e9f6/9A71110A-ABFE-4B96-BB09-90CB22264F89-removebg-preview.png"
             />
           )}
         </Flex>
